@@ -16,7 +16,7 @@
 
 ## 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Engti112&show_icons=true&theme=radical" alt="GitHub Stats" height="160" />
+<!--   <img src="https://github-readme-stats.vercel.app/api?username=Engti112&show_icons=true&theme=radical" alt="GitHub Stats" height="160" /> -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Engti112&theme=radical" alt="GitHub Streak" height="160" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Engti112&layout=compact&theme=radical" alt="Top Languages" height="160" />
 </div>
