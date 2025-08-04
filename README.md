@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👋 Hi there, I'm sarkiri Engti
 
-<!--
-**Engti112/Engti112** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I’m a recent graduate in Information Technology  
+🚀 I enjoy creating responsive, clean, and user-friendly web apps  
+🎯 Actively looking for opportunities in IT sectors as a **Frontend** or **Full-Stack Developer**  
+📫 Reach me at: [sikariengti77@gmail.com] | [LinkedIn](linkedin.com/in/sarkiri-engti-40b158377)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+- **Frontend:** HTML, CSS, JavaScript, React.js, Tailwind CSS
+- **Backend:** Node.js, PostgreSQL, Next.js (learning)
+- **Tools:** Git, GitHub, VS Code, Figma
+
+---
+
+## 📊 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Engti112&show_icons=true&theme=radical" alt="GitHub Stats" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Engti112&theme=radical" alt="GitHub Streak" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Engti112&layout=compact&theme=radical" alt="Top Languages" height="160" />
+</div>
+
+---
+
+## 📂 Projects Showcase
+🔗 Check out my repositories to see what I’ve been working on — from small apps to full-stack projects!
+
