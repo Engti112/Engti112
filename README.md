@@ -9,7 +9,7 @@
 
 ## 🛠️ Tech Stack
 - **Frontend:** HTML, CSS, JavaScript, React.js, Tailwind CSS
-- **Backend:** Node.js, PostgreSQL, Next.js (learning)
+- **Backend:** Node.js, PostgreSQL
 - **Tools:** Git, GitHub, VS Code, Figma
 
 ---
